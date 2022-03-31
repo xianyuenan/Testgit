@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T06:41:16.677Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="H8WSJwfoXorFlniv2FRL" version="14.6.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-31T01:36:24.314Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="rQ3fH1D84iR6of_8LXPQ" version="14.6.13" type="github" pages="4">
   <diagram id="9xyZxcnGTwwkw8rNHgnw" name="Page-1">
     <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -527,28 +527,55 @@
         <mxCell id="kksMtZ5VxU91Srzz_Vq6-0" />
         <mxCell id="kksMtZ5VxU91Srzz_Vq6-1" parent="kksMtZ5VxU91Srzz_Vq6-0" />
         <mxCell id="u3X3CN5nSOfou1jXae0g-1" value="行方业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
-          <mxGeometry x="480" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u3X3CN5nSOfou1jXae0g-2" value="行方项目经理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
-          <mxGeometry x="480" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u3X3CN5nSOfou1jXae0g-3" value="项目经理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
-          <mxGeometry x="480" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u3X3CN5nSOfou1jXae0g-4" value="行方测试经理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
-          <mxGeometry x="480" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u3X3CN5nSOfou1jXae0g-5" value="需求说明书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
           <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u3X3CN5nSOfou1jXae0g-6" value="需求评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
-          <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u3X3CN5nSOfou1jXae0g-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
-          <mxGeometry x="20" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="u3X3CN5nSOfou1jXae0g-7" value="需求任务分解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
+          <mxGeometry x="20" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u3X3CN5nSOfou1jXae0g-8" value="开发人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
-          <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3X3CN5nSOfou1jXae0g-9" value="需求开发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
+          <mxGeometry x="20" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3X3CN5nSOfou1jXae0g-10" value="产品设计及内部评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
+          <mxGeometry x="20" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3X3CN5nSOfou1jXae0g-11" value="内部自测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
+          <mxGeometry x="20" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3X3CN5nSOfou1jXae0g-12" value="测试人员测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
+          <mxGeometry x="20" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3X3CN5nSOfou1jXae0g-13" value="上线前评审" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
+          <mxGeometry x="20" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3X3CN5nSOfou1jXae0g-15" value="代码走查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
+          <mxGeometry x="20" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3X3CN5nSOfou1jXae0g-16" value="工作量评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
+          <mxGeometry x="20" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3X3CN5nSOfou1jXae0g-17" value="业务验收" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
+          <mxGeometry x="20" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u3X3CN5nSOfou1jXae0g-18" value="代码上线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kksMtZ5VxU91Srzz_Vq6-1">
+          <mxGeometry x="20" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
