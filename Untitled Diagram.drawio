@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T03:27:11.568Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="hAmHpE921eKcvlsUdfgP" version="20.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-05T03:28:42.488Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="0obUxbAvGrVsk7w82IJ9" version="20.0.4" type="github" pages="5">
   <diagram id="9xyZxcnGTwwkw8rNHgnw" name="Page-1">
     <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -645,16 +645,16 @@
         <mxCell id="QOPLWNvR__08Jfrhz4qI-23" value="......" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="446" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QOPLWNvR__08Jfrhz4qI-24" value="服务端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QOPLWNvR__08Jfrhz4qI-24" value="服务端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="460" y="415.09999999999997" width="60" height="29.8" as="geometry" />
         </mxCell>
-        <mxCell id="QOPLWNvR__08Jfrhz4qI-26" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QOPLWNvR__08Jfrhz4qI-26" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="460" y="345.09999999999997" width="60" height="29.8" as="geometry" />
         </mxCell>
-        <mxCell id="QOPLWNvR__08Jfrhz4qI-27" value="服务端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QOPLWNvR__08Jfrhz4qI-27" value="服务端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="670" y="345.09999999999997" width="60" height="29.8" as="geometry" />
         </mxCell>
-        <mxCell id="QOPLWNvR__08Jfrhz4qI-28" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QOPLWNvR__08Jfrhz4qI-28" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="670" y="415.09999999999997" width="60" height="29.8" as="geometry" />
         </mxCell>
         <mxCell id="QOPLWNvR__08Jfrhz4qI-29" value="公共服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -689,6 +689,12 @@
         </mxCell>
         <mxCell id="QOPLWNvR__08Jfrhz4qI-37" value="REST API 调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="545" y="401.45" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QOPLWNvR__08Jfrhz4qI-38" value="服务接入平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="276" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QOPLWNvR__08Jfrhz4qI-39" value="业务服务平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="750" y="270" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
