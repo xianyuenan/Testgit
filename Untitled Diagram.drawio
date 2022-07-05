@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T03:31:59.345Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="lku68O8J5GWlRY5n_c1K" version="20.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-05T03:35:27.897Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="bK9ph5fxki8uO4syAlCp" version="20.0.4" type="github" pages="5">
   <diagram id="9xyZxcnGTwwkw8rNHgnw" name="Page-1">
     <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -612,7 +612,7 @@
         <mxCell id="QOPLWNvR__08Jfrhz4qI-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="230" y="120" width="720" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="QOPLWNvR__08Jfrhz4qI-12" value="注册中心(Eurreka/Zookeeper)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QOPLWNvR__08Jfrhz4qI-12" value="注册中心(Eurreka/Zookeeper)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="250" y="141" width="690" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QOPLWNvR__08Jfrhz4qI-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -716,6 +716,12 @@
         </mxCell>
         <mxCell id="QOPLWNvR__08Jfrhz4qI-44" value="发布/订阅" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="304" y="212" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QOPLWNvR__08Jfrhz4qI-45" value="缓存中心(Redis)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="250" y="555" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QOPLWNvR__08Jfrhz4qI-46" value="消息中心(RabbitMQ/RocketMQ/Kafka)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="570" y="555" width="200" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
