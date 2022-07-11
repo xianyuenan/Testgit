@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T02:53:40.098Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="xwMfjG8XOOTAvxv4TL03" version="20.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-11T03:17:55.671Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="C7_5kKQTsIKzgcJk2D8Y" version="20.0.4" type="github" pages="4">
   <diagram id="AdpIYjED1KCkNcHsH0t6" name="Page-1">
     <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -609,12 +609,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vJDBLmYGanTiPoExS-l0" name="Page-4">
-    <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1675" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="50GuFp0A8ScLAOZ8skMk-7" value="" style="group;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="90" y="51" width="230" height="140" as="geometry" />
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="30" width="1100" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry width="1100" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-2" value="" style="group" vertex="1" connectable="0" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="50" y="50" width="980" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="50GuFp0A8ScLAOZ8skMk-7" value="" style="group;" parent="VDm9Cdl3pB9ZahPFaRLI-2" vertex="1" connectable="0">
+          <mxGeometry y="1" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="50GuFp0A8ScLAOZ8skMk-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="50GuFp0A8ScLAOZ8skMk-7" vertex="1">
           <mxGeometry width="230" height="140" as="geometry" />
@@ -634,8 +643,8 @@
         <mxCell id="50GuFp0A8ScLAOZ8skMk-6" value="手机银行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="50GuFp0A8ScLAOZ8skMk-7" vertex="1">
           <mxGeometry x="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="50GuFp0A8ScLAOZ8skMk-8" value="" style="group;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="340" y="50" width="230" height="140" as="geometry" />
+        <mxCell id="50GuFp0A8ScLAOZ8skMk-8" value="" style="group;fillColor=#ffff88;strokeColor=#36393d;" parent="VDm9Cdl3pB9ZahPFaRLI-2" vertex="1" connectable="0">
+          <mxGeometry x="250" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="50GuFp0A8ScLAOZ8skMk-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="50GuFp0A8ScLAOZ8skMk-8" vertex="1">
           <mxGeometry width="230" height="140" as="geometry" />
@@ -655,8 +664,8 @@
         <mxCell id="50GuFp0A8ScLAOZ8skMk-14" value="金融服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="50GuFp0A8ScLAOZ8skMk-8" vertex="1">
           <mxGeometry x="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="50GuFp0A8ScLAOZ8skMk-16" value="" style="group;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="590" y="50" width="230" height="140" as="geometry" />
+        <mxCell id="50GuFp0A8ScLAOZ8skMk-16" value="" style="group;fillColor=#ffff88;strokeColor=#36393d;" parent="VDm9Cdl3pB9ZahPFaRLI-2" vertex="1" connectable="0">
+          <mxGeometry x="500" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="50GuFp0A8ScLAOZ8skMk-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="50GuFp0A8ScLAOZ8skMk-16" vertex="1">
           <mxGeometry width="230" height="140" as="geometry" />
@@ -676,8 +685,8 @@
         <mxCell id="50GuFp0A8ScLAOZ8skMk-22" value="生活服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="50GuFp0A8ScLAOZ8skMk-16" vertex="1">
           <mxGeometry x="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="50GuFp0A8ScLAOZ8skMk-23" value="" style="group;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="840" y="50" width="230" height="140" as="geometry" />
+        <mxCell id="50GuFp0A8ScLAOZ8skMk-23" value="" style="group;fillColor=#ffff88;strokeColor=#36393d;" parent="VDm9Cdl3pB9ZahPFaRLI-2" vertex="1" connectable="0">
+          <mxGeometry x="750" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="50GuFp0A8ScLAOZ8skMk-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="50GuFp0A8ScLAOZ8skMk-23" vertex="1">
           <mxGeometry width="230" height="140" as="geometry" />
@@ -696,6 +705,138 @@
         </mxCell>
         <mxCell id="50GuFp0A8ScLAOZ8skMk-29" value="移动营销" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" parent="50GuFp0A8ScLAOZ8skMk-23" vertex="1">
           <mxGeometry x="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-4" value="应用层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="430" y="10" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=default;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry y="230" width="1100" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="50" y="287" width="230" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-8" value="软键盘" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="85" y="350" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-9" value="手势" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="85" y="500" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-10" value="事件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="85" y="450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-12" value="摄像头" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="85" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-13" value="GPS定位" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="85" y="550" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-15" value="音频口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="85" y="600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-16" value="加速计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="85" y="650" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="304" y="287" width="226" height="263" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="560" y="287" width="470" height="263" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-19" value="用户界面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="340" y="350" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-20" value="声音语音" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="340" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-22" value="图像图表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="339" y="450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-24" value="主题风格" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="339" y="499" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-25" value="场景管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="600" y="350" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-26" value="通讯服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="840" y="350" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-28" value="会话管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="600" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-29" value="安全模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="600" y="450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-30" value="资源管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="600" y="500" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-31" value="权限控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="840" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-32" value="HTML5支持" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="840" y="450" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-33" value="版本控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="840" y="499" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="304" y="557" width="726" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-35" value="WEB子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="330" y="600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-36" value="PNS子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="330" y="650" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-38" value="LBS子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="509" y="600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-39" value="SNS子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="689" y="600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-40" value="UI子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="864" y="600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-41" value="通讯子系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="509" y="650" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-42" value="会话&amp;amp;身份" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="689" y="650" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-44" value="屏幕输入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="864" y="650" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-45" value="输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="100" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-47" value="输出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="357" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-49" value="服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="735" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=default;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry y="731" width="1100" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-51" value="设备支持和硬件接口" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="70" y="798" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-52" value="消息总线" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="610" y="798" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-53" value="软硬件平台开发标准及SDK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="70" y="878" width="960" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-54" value="硬件设备和操作系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="70" y="951" width="960" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-55" value="平台及操作系统支持" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="290" y="750" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-56" value="子系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="610" y="560" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VDm9Cdl3pB9ZahPFaRLI-58" value="接口层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="VDm9Cdl3pB9ZahPFaRLI-59">
+          <mxGeometry x="432" y="240" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
