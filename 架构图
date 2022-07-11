@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T01:49:59.290Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="QVOzo9JO5dVenIc4Q1UT" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-11T01:53:18.435Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="VEH-M7sUrYAK_08F0VZ5" version="20.0.4" type="github" pages="3">
   <diagram id="AdpIYjED1KCkNcHsH0t6" name="Page-1">
     <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,32 +171,38 @@
         <mxCell id="R4bQI_9nYXoGNEil0uXl-30" value="Mobile OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="830" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R4bQI_9nYXoGNEil0uXl-32" value="Mobile OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R4bQI_9nYXoGNEil0uXl-32" value="移动服务器-WEB层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="930" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R4bQI_9nYXoGNEil0uXl-33" value="Mobile OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R4bQI_9nYXoGNEil0uXl-33" value="Web Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="960" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R4bQI_9nYXoGNEil0uXl-34" value="Mobile OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R4bQI_9nYXoGNEil0uXl-34" value="Operating System OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="990" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R4bQI_9nYXoGNEil0uXl-35" value="Mobile OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R4bQI_9nYXoGNEil0uXl-35" value="移动服务器-APP层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="930" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R4bQI_9nYXoGNEil0uXl-36" value="Mobile OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R4bQI_9nYXoGNEil0uXl-36" value="Application Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="960" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R4bQI_9nYXoGNEil0uXl-37" value="Mobile OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R4bQI_9nYXoGNEil0uXl-37" value="Operating System OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="990" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R4bQI_9nYXoGNEil0uXl-38" value="Mobile OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R4bQI_9nYXoGNEil0uXl-38" value="服务端DB层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="800" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R4bQI_9nYXoGNEil0uXl-39" value="Mobile OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R4bQI_9nYXoGNEil0uXl-39" value="Operating System OS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="830" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R4bQI_9nYXoGNEil0uXl-40" value="http/https" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fontSize=10;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="283" y="860" width="47" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R4bQI_9nYXoGNEil0uXl-41" value="JDBC" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fontSize=10;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="521.5" y="860" width="47" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R4bQI_9nYXoGNEil0uXl-42" value="http" style="shape=doubleArrow;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="360" y="953" width="130" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
