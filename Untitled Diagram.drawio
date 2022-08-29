@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T07:00:24.028Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="T7euG-tFK7SJRgmfNpfr" version="20.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-08-29T07:05:08.405Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="x6TkpfRdEwp7z3Z5XYgu" version="20.0.4" type="github" pages="6">
   <diagram id="9xyZxcnGTwwkw8rNHgnw" name="Page-1">
     <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -994,6 +994,9 @@
         </mxCell>
         <mxCell id="eFb9Xhz_Hg_OurZib_Xb-7" value="服务端解密并返回验证结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="390" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eFb9Xhz_Hg_OurZib_Xb-8" value="明文:M1660552342388:a1111112&lt;br&gt;明文:&lt;span style=&quot;color: rgb(6, 125, 23); background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;+eBGxr4JX6DWAK28UW30/pL2mVhqBoF5nRdvSSQ+ElnUbvV0q6UEpXxs8brX8u/8ETAPQG7qADerzVnQztrBXwr7kmpQpWU8r&lt;br&gt;IxEAc9bwO4i8J2gyJT1gkaUORmeHpWsD8JcKAvRFUAj/YCZG6mL8IvzXlCvWwY=&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="500" width="1290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
