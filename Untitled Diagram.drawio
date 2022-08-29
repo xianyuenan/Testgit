@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T07:05:08.405Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="x6TkpfRdEwp7z3Z5XYgu" version="20.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-08-29T07:06:29.097Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ljHejgKArP-wCpb6xRLW" version="20.0.4" type="github" pages="6">
   <diagram id="9xyZxcnGTwwkw8rNHgnw" name="Page-1">
     <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -937,7 +937,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ym6e4AYWc-p5KKFjr9CP" name="GMPWD">
-    <mxGraphModel dx="814" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -962,7 +962,7 @@
         <mxCell id="S8UVHNcs3fGqMlrv2jeC-11" value="获取密码键盘" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="111" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S8UVHNcs3fGqMlrv2jeC-12" value="国密加密密码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="S8UVHNcs3fGqMlrv2jeC-12" value="输入完密码，国密加密密码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="196" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S8UVHNcs3fGqMlrv2jeC-13" value="发送国密密码到服务端进行解密" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
