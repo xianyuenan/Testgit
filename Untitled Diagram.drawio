@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T06:46:28.105Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ZdCPMAAZX7Fs42mxsBeC" version="20.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-08-29T07:00:24.028Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="T7euG-tFK7SJRgmfNpfr" version="20.0.4" type="github" pages="6">
   <diagram id="9xyZxcnGTwwkw8rNHgnw" name="Page-1">
     <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -941,14 +941,59 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="S8UVHNcs3fGqMlrv2jeC-1" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S8UVHNcs3fGqMlrv2jeC-1" value="服务端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="30" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="S8UVHNcs3fGqMlrv2jeC-2" value="云核SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S8UVHNcs3fGqMlrv2jeC-2" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322" y="30" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="S8UVHNcs3fGqMlrv2jeC-3" value="服务端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="S8UVHNcs3fGqMlrv2jeC-3" value="云核SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="30" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S8UVHNcs3fGqMlrv2jeC-8" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="10" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="S8UVHNcs3fGqMlrv2jeC-9" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="80" width="10" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="S8UVHNcs3fGqMlrv2jeC-10" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="80" width="10" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="S8UVHNcs3fGqMlrv2jeC-11" value="获取密码键盘" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="111" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S8UVHNcs3fGqMlrv2jeC-12" value="国密加密密码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="196" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S8UVHNcs3fGqMlrv2jeC-13" value="发送国密密码到服务端进行解密" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="211" y="294" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eFb9Xhz_Hg_OurZib_Xb-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.205;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S8UVHNcs3fGqMlrv2jeC-9" target="S8UVHNcs3fGqMlrv2jeC-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="382" y="180" as="sourcePoint" />
+            <mxPoint x="432" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFb9Xhz_Hg_OurZib_Xb-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.427;entryY=0.514;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.538;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="S8UVHNcs3fGqMlrv2jeC-10" target="S8UVHNcs3fGqMlrv2jeC-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="247" as="sourcePoint" />
+            <mxPoint x="410" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFb9Xhz_Hg_OurZib_Xb-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.541;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="377" y="340.92999999999995" as="sourcePoint" />
+            <mxPoint x="143" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFb9Xhz_Hg_OurZib_Xb-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.205;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.933;entryY=0.686;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="S8UVHNcs3fGqMlrv2jeC-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142.5" y="442.44999999999993" as="sourcePoint" />
+            <mxPoint x="370" y="442" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eFb9Xhz_Hg_OurZib_Xb-7" value="服务端解密并返回验证结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
