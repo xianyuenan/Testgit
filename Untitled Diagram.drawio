@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T07:10:56.138Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Hd6hkN51jp3ukaM2wief" version="20.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-08-30T03:34:36.079Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-db4jkENPD-WglBJdSn8" version="20.2.7" type="github" pages="7">
   <diagram id="9xyZxcnGTwwkw8rNHgnw" name="Page-1">
     <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1000,6 +1000,47 @@
         </mxCell>
         <mxCell id="eFb9Xhz_Hg_OurZib_Xb-7" value="服务端解密并返回验证结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eFb9Xhz_Hg_OurZib_Xb-9">
           <mxGeometry x="110" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="E1eilD2UtsLKR_nC4mP8" name="GMContextEncode">
+    <mxGraphModel dx="982" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="feagnmwDf-bpIWPK_iaU-1" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="feagnmwDf-bpIWPK_iaU-2" value="服务端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="feagnmwDf-bpIWPK_iaU-3" value="初始化SM2公钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="128" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="feagnmwDf-bpIWPK_iaU-4" value="启动后生成SM4密钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="feagnmwDf-bpIWPK_iaU-5" value="使用SM4加密上送报文(EncReqContext)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="feagnmwDf-bpIWPK_iaU-6" value="使用SM2加密SM4密钥(EncSm4)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="feagnmwDf-bpIWPK_iaU-7" value="将EncReqContext和EncSm4发送给服务端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="460" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="feagnmwDf-bpIWPK_iaU-8" value="服务端发送EncSM4给签名服务器进行解密" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="460" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="feagnmwDf-bpIWPK_iaU-9" value="使用SM4解密EncReqContext，继续进行交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="553" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="feagnmwDf-bpIWPK_iaU-10" value="将返回报文进行SM4加密，并返回给客户端EncResContext" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="640" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="feagnmwDf-bpIWPK_iaU-11" value="使用SM4解密EncResContext，拿到返回报文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="645" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
