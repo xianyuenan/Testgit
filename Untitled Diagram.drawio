@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T06:34:23.788Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="J0RyvSS5OVp--78HSti9" version="20.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-09-16T07:01:22.735Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="tNlkgQqFPC_eiNl_Amg7" version="20.2.7" type="github" pages="8">
   <diagram id="9xyZxcnGTwwkw8rNHgnw" name="Page-1">
     <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1136,10 +1136,10 @@
         <mxCell id="E1aNhQsf3wLsSGK_-pqk-15" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-14">
           <mxGeometry x="5" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-16" value="SM2与SM4结合对请求数据做上下文加密" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-14">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-16" value="云核国密密码控件SDK加密密码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-14">
           <mxGeometry y="131" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-17" value="解密上下文数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-14">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-17" value="解密国密密码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-14">
           <mxGeometry x="215" y="131" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E1aNhQsf3wLsSGK_-pqk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="E1aNhQsf3wLsSGK_-pqk-14" source="E1aNhQsf3wLsSGK_-pqk-16" target="E1aNhQsf3wLsSGK_-pqk-17">
