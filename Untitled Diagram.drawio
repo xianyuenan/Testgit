@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T08:38:00.457Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="zihzXoTrxeVaZOm9YpB_" version="21.5.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-06-27T08:47:47.323Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="ImIteCUlM5_C9SeIbkMD" version="21.5.1" type="github" pages="9">
   <diagram id="9xyZxcnGTwwkw8rNHgnw" name="Page-1">
     <mxGraphModel dx="1436" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1341,11 +1341,11 @@
         <mxCell id="eYeQGBQkhMyzYlv57u03-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="740" as="sourcePoint" />
-            <mxPoint x="730" y="740" as="targetPoint" />
+            <mxPoint x="700" y="740" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eYeQGBQkhMyzYlv57u03-47" value="最佳人脸有源比对" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-46">
+        <mxCell id="eYeQGBQkhMyzYlv57u03-47" value="发起认证流程" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eYeQGBQkhMyzYlv57u03-48" value="2" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-46">
@@ -1356,6 +1356,107 @@
         </mxCell>
         <mxCell id="eYeQGBQkhMyzYlv57u03-50" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="275" y="478" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="820" as="sourcePoint" />
+            <mxPoint x="530" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-52" value="返回CertifyId" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-53" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="798" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="820" as="sourcePoint" />
+            <mxPoint x="125" y="822.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-57" value="返回CertifyId给APP" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-58" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="798" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="890" as="sourcePoint" />
+            <mxPoint x="290" y="890" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-60" value="调用认证SDk" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-61" value="5" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-59">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="940" as="sourcePoint" />
+            <mxPoint x="100" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-63" value="返回头像上送结果" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-64" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="918" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="1020" as="sourcePoint" />
+            <mxPoint x="440" y="1020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-66" value="查询活体比对结果" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-67" value="7" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-65">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="1020" as="sourcePoint" />
+            <mxPoint x="700" y="1020" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-69" value="查询结果" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-70" value="8" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-68">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-71" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="1070" as="sourcePoint" />
+            <mxPoint x="520" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-72" value="返回结果" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-73" value="9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="677" y="1048" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-74" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="1070" as="sourcePoint" />
+            <mxPoint x="125" y="1072.6599999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-75" value="返回比对结果给APP" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-76" value="10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1048" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
