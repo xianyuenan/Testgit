@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T08:43:53.762Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="izVetB9-7STV6IkG3SzW" version="20.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-06-27T06:27:51.016Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="nmi0ohvBU5A8w6urACza" version="21.5.1" type="github" pages="9">
   <diagram id="9xyZxcnGTwwkw8rNHgnw" name="Page-1">
-    <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,7 +260,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A_I17RxpoOO4w9vpcxQd" name="Page-2">
-    <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="R62zWXfQCnqte18F5----0" />
         <mxCell id="R62zWXfQCnqte18F5----1" parent="R62zWXfQCnqte18F5----0" />
@@ -442,7 +442,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QjYmCjLs9fZkJPuglfCA" name="Page-3">
-    <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KSzr13WXvalqmiKpPwEo-0" />
         <mxCell id="KSzr13WXvalqmiKpPwEo-1" parent="KSzr13WXvalqmiKpPwEo-0" />
@@ -522,7 +522,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JSGQnOMl1nf6MwdECklq" name="Page-4">
-    <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kksMtZ5VxU91Srzz_Vq6-0" />
         <mxCell id="kksMtZ5VxU91Srzz_Vq6-1" parent="kksMtZ5VxU91Srzz_Vq6-0" />
@@ -581,7 +581,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="x-lD5IZ3jA25z-6p8w9X" name="Page-5">
-    <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -937,7 +937,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ym6e4AYWc-p5KKFjr9CP" name="GMPWD">
-    <mxGraphModel dx="982" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1005,7 +1005,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="E1eilD2UtsLKR_nC4mP8" name="GMContextEncode">
-    <mxGraphModel dx="1424" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1099,64 +1099,72 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lLhPbGhvijbOipFMm7ZG" name="第 8 页">
-    <mxGraphModel dx="814" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-13" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-13" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="115" y="60" width="550" height="191" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-2" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-13">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-2" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="E1aNhQsf3wLsSGK_-pqk-13" vertex="1">
           <mxGeometry x="5" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-5" value="SM2与SM4结合对请求数据做上下文加密" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-13">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-5" value="SM2与SM4结合对请求数据做上下文加密" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="E1aNhQsf3wLsSGK_-pqk-13" vertex="1">
           <mxGeometry y="131" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-6" value="解密上下文数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-13">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-6" value="解密上下文数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="E1aNhQsf3wLsSGK_-pqk-13" vertex="1">
           <mxGeometry x="215" y="131" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="E1aNhQsf3wLsSGK_-pqk-13" source="E1aNhQsf3wLsSGK_-pqk-5" target="E1aNhQsf3wLsSGK_-pqk-6">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="E1aNhQsf3wLsSGK_-pqk-13" source="E1aNhQsf3wLsSGK_-pqk-5" target="E1aNhQsf3wLsSGK_-pqk-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-7" value="业务逻辑处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-13">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-7" value="业务逻辑处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="E1aNhQsf3wLsSGK_-pqk-13" vertex="1">
           <mxGeometry x="430" y="131" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="E1aNhQsf3wLsSGK_-pqk-13" source="E1aNhQsf3wLsSGK_-pqk-6" target="E1aNhQsf3wLsSGK_-pqk-7">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="E1aNhQsf3wLsSGK_-pqk-13" source="E1aNhQsf3wLsSGK_-pqk-6" target="E1aNhQsf3wLsSGK_-pqk-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-8" value="API网关" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-13">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-8" value="API网关" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="E1aNhQsf3wLsSGK_-pqk-13" vertex="1">
           <mxGeometry x="220" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-9" value="服务端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-13">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-9" value="服务端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="E1aNhQsf3wLsSGK_-pqk-13" vertex="1">
           <mxGeometry x="434" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-14" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-14" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="120" y="360" width="550" height="191" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-15" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-14">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-15" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="E1aNhQsf3wLsSGK_-pqk-14" vertex="1">
           <mxGeometry x="5" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-16" value="云核国密密码控件SDK加密密码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-14">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-16" value="云核国密密码控件SDK加密密码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="E1aNhQsf3wLsSGK_-pqk-14" vertex="1">
           <mxGeometry y="131" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-17" value="解密国密密码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-14">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-17" value="解密国密密码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="E1aNhQsf3wLsSGK_-pqk-14" vertex="1">
           <mxGeometry x="215" y="131" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="E1aNhQsf3wLsSGK_-pqk-14" source="E1aNhQsf3wLsSGK_-pqk-16" target="E1aNhQsf3wLsSGK_-pqk-17">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="E1aNhQsf3wLsSGK_-pqk-14" source="E1aNhQsf3wLsSGK_-pqk-16" target="E1aNhQsf3wLsSGK_-pqk-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-19" value="验证密码是否正确" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-14">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-19" value="验证密码是否正确" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="E1aNhQsf3wLsSGK_-pqk-14" vertex="1">
           <mxGeometry x="430" y="131" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="E1aNhQsf3wLsSGK_-pqk-14" source="E1aNhQsf3wLsSGK_-pqk-17" target="E1aNhQsf3wLsSGK_-pqk-19">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="E1aNhQsf3wLsSGK_-pqk-14" source="E1aNhQsf3wLsSGK_-pqk-17" target="E1aNhQsf3wLsSGK_-pqk-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-21" value="API网关" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-14">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-21" value="API网关" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="E1aNhQsf3wLsSGK_-pqk-14" vertex="1">
           <mxGeometry x="220" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E1aNhQsf3wLsSGK_-pqk-22" value="服务端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="E1aNhQsf3wLsSGK_-pqk-14">
+        <mxCell id="E1aNhQsf3wLsSGK_-pqk-22" value="服务端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="E1aNhQsf3wLsSGK_-pqk-14" vertex="1">
           <mxGeometry x="434" width="110" height="50" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2ANPQLhpnQjcThcCAjyM" name="第 9 页">
+    <mxGraphModel dx="1436" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
