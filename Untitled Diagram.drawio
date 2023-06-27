@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T06:27:51.016Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="nmi0ohvBU5A8w6urACza" version="21.5.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-06-27T07:54:49.945Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="l8JVkWTMCMiuH8A96p5h" version="21.5.1" type="github" pages="9">
   <diagram id="9xyZxcnGTwwkw8rNHgnw" name="Page-1">
     <mxGraphModel dx="1436" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1161,10 +1161,93 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2ANPQLhpnQjcThcCAjyM" name="第 9 页">
-    <mxGraphModel dx="1436" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="990" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eYeQGBQkhMyzYlv57u03-5" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-6" value="百度SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-7" value="直销" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-8" value="综合前置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="240" as="sourcePoint" />
+            <mxPoint x="300" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-11" value="获取最佳人脸" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-12" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-10">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="330" as="sourcePoint" />
+            <mxPoint x="460" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-14" value="活体人脸比对" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-15" value="2" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-13">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="380" as="sourcePoint" />
+            <mxPoint x="740" y="380" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-17" value="最佳人脸与身份证照比对" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-18" value="3.1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-16">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="410" as="sourcePoint" />
+            <mxPoint x="740" y="410" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-21" value="最佳人脸与开户最佳头像比对" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-22" value="3.2" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-20">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="512" y="440" as="sourcePoint" />
+            <mxPoint x="742" y="440" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-24" value="最佳人脸有源比对" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYeQGBQkhMyzYlv57u03-25" value="3.3" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="eYeQGBQkhMyzYlv57u03-23">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
