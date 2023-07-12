@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T08:15:41.547Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="nC6uY4bwx9_Qokw1ILMe" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T08:17:37.088Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="et7yTdcY5Hob5kjMQlz6" version="21.6.1" type="github">
   <diagram name="第 1 页" id="mV_qi1cDvNp9JisKHs0J">
     <mxGraphModel dx="2263" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="7jq_NJrkd13_KhJfO4df-4" value="容器域名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7jq_NJrkd13_KhJfO4df-5" value="行内网新域名" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7jq_NJrkd13_KhJfO4df-5" value="direct-prodtest.z-bank.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7jq_NJrkd13_KhJfO4df-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7jq_NJrkd13_KhJfO4df-5" target="zmU-SDt401ndgRT6T8sc-1">
