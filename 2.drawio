@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T10:42:46.651Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="LF5cHBh2j_MwH_2g8qVI" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T10:55:10.965Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36" etag="N-8-wAMU14_FvGpYiY_6" version="21.6.2" type="github">
   <diagram name="第 1 页" id="mV_qi1cDvNp9JisKHs0J">
     <mxGraphModel dx="2263" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,13 +138,13 @@
         <mxCell id="gv6_wSxVG8NXazlsk4wM-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gv6_wSxVG8NXazlsk4wM-14" target="gv6_wSxVG8NXazlsk4wM-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gv6_wSxVG8NXazlsk4wM-14" value="签约状态ChannelStatus为0可用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gv6_wSxVG8NXazlsk4wM-14" value="通道状态ChannelStatus为0可用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="-830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gv6_wSxVG8NXazlsk4wM-16" value="做充值" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="-830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gv6_wSxVG8NXazlsk4wM-19" value="签约状态ChannelStatus为1维护中，2不可用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gv6_wSxVG8NXazlsk4wM-19" value="通道状态ChannelStatus为1维护中，2不可用，重新签约" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="-920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gv6_wSxVG8NXazlsk4wM-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=-0.05;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gv6_wSxVG8NXazlsk4wM-8" target="gv6_wSxVG8NXazlsk4wM-19">
